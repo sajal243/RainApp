@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RainApp/static/css/main.d4745bb5.css",
+    "main.js": "/RainApp/static/js/main.a1233c39.js",
+    "static/media/img1.jpg": "/RainApp/static/media/img1.c263da8a9f03b5171a08.jpg",
+    "static/media/logo.svg": "/RainApp/static/media/logo.4946fc39a071eb597327.svg",
+    "static/media/arrow.svg": "/RainApp/static/media/arrow.bf0a690e82e3b12d87ba.svg",
+    "index.html": "/RainApp/index.html",
+    "main.d4745bb5.css.map": "/RainApp/static/css/main.d4745bb5.css.map",
+    "main.a1233c39.js.map": "/RainApp/static/js/main.a1233c39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4745bb5.css",
+    "static/js/main.a1233c39.js"
+  ]
+}
